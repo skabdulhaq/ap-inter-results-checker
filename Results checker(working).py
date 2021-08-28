@@ -34,13 +34,11 @@ for character in dob:
     time.sleep(1)
 tab()
 enter()
-time.sleep(5)
-x=4
-while x>0:
-    tab()
-    x=x-1
+time.sleep(3)
 enter()
-time.sleep(5)
+time.sleep(3)
+tab()
+enter()
 y=10
 while y>0:
     tab()
